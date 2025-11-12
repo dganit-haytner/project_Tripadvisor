@@ -62,7 +62,6 @@ ________________________________________
 
 
 Final Model Performance on Test Set:
-•	Confusion Matrix: [[2058, 1741], [494, 1619]]
 •	Accuracy: 62%
 •	F1-Score (Class 0): 0.65, F1-Score (Class 1): 0.59
 
